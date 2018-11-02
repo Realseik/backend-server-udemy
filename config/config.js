@@ -1,6 +1,3 @@
+module.exports.SEED = 'control';
 
-var express = require('express');
-
-let SEED = 'control';
-
-module.exports = SEED;
+module.exports.CLIENT_ID = '513811310169-lembo25hach32t2g13cuulduomht7lsd.apps.googleusercontent.com';
